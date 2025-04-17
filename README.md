@@ -13,7 +13,7 @@ Una aplicación web sencilla para gestionar tareas del día a día. Crea, edita,
 
 ## 📸 Vista previa
 
-![Demo](https://user-images.githubusercontent.com/your-username/demo.gif) <!-- Reemplaza esto por una captura o GIF si tienes -->
+![Demo](./images/captura-pagina.jpeg) <!-- Reemplaza esto por una captura o GIF si tienes -->
 
 ## 🧰 Tecnologías utilizadas
 
