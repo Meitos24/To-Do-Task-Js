@@ -27,3 +27,11 @@ Una aplicación web sencilla para gestionar tareas del día a día. Crea, edita,
 
 ```bash
 git clone https://github.com/Meitos24/To-Do-Task-Js.git
+```
+Abre el archivo index.html en tu navegador:
+```bash
+cd To-Do App Js
+start index.html   # en Windows
+# o
+open index.html    # en macOS
+```
